@@ -13,6 +13,13 @@ youtube-downloader/
 └── README.md
 ```
 
+## Tech Stack:
+
+- Frontend: React 18, Vite, Axios
+- Backend: Node.js, Express, @distube/ytdl-core
+- Media Processing: FFmpeg for audio conversion
+- UI: React Icons for interface elements
+
 ## Prerequisites
 
 - **Node.js**: Version 20.18.1 or higher (required for @distube/ytdl-core)
