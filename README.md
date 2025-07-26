@@ -9,7 +9,7 @@ This README provides detailed installation instructions for both the backend and
 ```
 youtube-downloader/
 ├── backend/           # Node.js Express API
-├── frontend/          # React + Vite application
+├── frontend/          # React + Vite applications
 └── README.md
 ```
 
